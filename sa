@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O Despertar do Poder Masculino</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #111;
+            color: #fff;
+            text-align: center;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #ffcc00;
+        }
+        .highlight {
+            color: #ff4444;
+            font-weight: bold;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin-top: 20px;
+            font-size: 20px;
+            background-color: #ff4444;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .cta-button:hover {
+            background-color: #cc0000;
+        }
+        .section {
+            padding: 20px;
+            margin: 20px 0;
+            background-color: #222;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔥 O Despertar do Poder Masculino 🔥</h1>
+        <h2>Recupere sua virilidade e potência como se tivesse 20!</h2>
+
+        <div class="section">
+            <h2 class="highlight">Seu corpo pode estar desligando sua masculinidade sem você perceber!</h2>
+            <p>❌ Seu desejo desaparece.<br>❌ Sua potência enfraquece.<br>❌ As mulheres percebem que você não é mais o mesmo.</p>
+            <p>⚠️ Não deixe que isso aconteça com você! Há uma solução simples e eficaz!</p>
+        </div>
+
+        <div class="section">
+            <h2>⚡ O Segredo Para Você Se Sentir Como um Touro na Cama ⚡</h2>
+            <p>Seu corpo tem um <strong>Interruptor Biológico</strong> que controla sua potência. Quando ele está ligado:</p>
+            <p>✅ Desejo explosivo, como se fosse um adolescente.<br>✅ Pegada forte e incontrolável na cama.<br>✅ Energia masculina que as mulheres sentem de longe.</p>
+            <p>Mas depois dos 35 anos, esse interruptor começa a se desligar…</p>
+        </div>
+
+        <div class="section">
+            <h2>🔥 A Solução: O Despertar do Poder Masculino 🔥</h2>
+            <p>📌 Nada de remédios que só mascaram o problema.<br>📌 Nada de tratamentos caros e demorados.<br>📌 Nada de mudanças absurdas na alimentação.</p>
+            <p><strong>Apenas um ajuste secreto que reativa seu Interruptor Biológico e devolve sua potência máxima!</strong></p>
+        </div>
+
+        <div class="section">
+            <h2>💪 Prova Social - Homens Que Já Usaram</h2>
+            <p>✅ “Voltei a ter desejo como nunca antes!”<br>✅ “Minha confiança voltou e as mulheres percebem.”<br>✅ “Parece que recuperei minha juventude!”</p>
+        </div>
+
+        <div class="section">
+            <h2>⚠️ Agora Você Tem Duas Opções ⚠️</h2>
+            <p>❌ Ignorar isso e ver sua masculinidade desaparecer.<br>🔥 Ativar seu Interruptor Biológico e recuperar seu poder agora!</p>
+            <a href="#" class="cta-button">🔥 QUERO MINHA POTÊNCIA DE VOLTA! 🔥</a>
+        </div>
+
+        <div class="section">
+            <h2>💰 Garantia Total de 7 Dias</h2>
+            <p>Se em 7 dias você não sentir diferença, devolvemos 100% do seu dinheiro.</p>
+            <p><strong>Sem riscos, sem desculpas. Apenas resultados.</strong></p>
+            <a href="#" class="cta-button">🔥 QUERO RELIGAR MEU PODER MASCULINO! 🔥</a>
+        </div>
+    </div>
+</body>
+</html>
